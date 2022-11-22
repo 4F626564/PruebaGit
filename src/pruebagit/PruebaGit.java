@@ -15,6 +15,10 @@ public class PruebaGit {
         // TODO code application logic here
         String texto = "esto es un saludo";
         System.out.println(texto);
+        int numero_1, numero_2;
+        numero_1 = 3;
+        numero_2 = 3;
+        System.out.println(numero_1 + numero_2);
     }
 
 }
